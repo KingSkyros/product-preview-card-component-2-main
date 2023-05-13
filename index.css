@@ -18,15 +18,40 @@ img{
     margin-left: 40%;
     border-top-left-radius: 7px; 
     border-bottom-left-radius: 7px;
-} 
+}  
 
 #text{ 
     background: hsl(0, 0%, 100%); 
-    float: left;
-    padding: 10%; 
-    margin-top: 5%;  
+    float: left; 
+    margin-top: 4%;  
+    padding-right: 8%; 
+    padding-left: 2%;   
 }   
 
+#main{
+    float: left; 
+    padding-bottom: 150px; 
+
+}
+
 h2{
-    
+    font-size: 2em; 
+    font-weight:100%;
+}   
+
+b{
+    font-size: 20px;  
+} 
+
+del{
+    font-size: 25px;
+} 
+
+h4{
+    font-size: 20px;
+} 
+
+button{
+    padding-left: 20%; 
+    padding-right: 20%; 
 }
